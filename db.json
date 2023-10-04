@@ -1,0 +1,46 @@
+{
+    "album": [{
+        "id": 1,
+        "name": "Gioventù Brucata",
+        "artist_id": 1
+    }],
+    "artists": [{
+        "id": 1,
+        "name": "Pinguini Tattici Nucleari",
+        "description": ""
+    }, {
+        "id": 2,
+        "name": "TheGiornalisti",
+        "description": ""
+    }, {
+        "id": 3,
+        "name": "Fast Animals and Slow Kids",
+        "description": ""
+    }, {
+        "id": 4,
+        "name": "Mahmood",
+        "description": ""
+    }],
+    "playlists": [{
+        "id": 1,
+        "name": "Daily Mix 1",
+        "description": "Pinguini Tattici Nucleari, TheGiornalisti, Gazzelle and more",
+        "picture": "1.jpg"
+    }, {
+        "id": 2,
+        "name": "Daily Mix 2",
+        "description": "Fast Animals and Slow Kids, Levante, Gio Evan and more",
+        "picture": "2.jpg"
+    }, {
+        "id": 3,
+        "name": "Daily Mix 3",
+        "description": "Mahmood, Carl Brave, Ultimo and more",
+        "picture": "3.jpg"
+    }],
+    "songs": [{
+        "id": 1,
+        "title": "Tetris",
+        "artist_id": 1,
+        "playlist_id": 3
+    }]
+}
