@@ -40,7 +40,16 @@
     "songs": [{
         "id": 1,
         "title": "Tetris",
+        "length": 350000,
         "artist_id": 1,
-        "playlist_id": 3
+        "album_id": 3
+    }, {
+        "id": 2,
+        "title": "Vita Sperduta",
+        "length": 216000,
+        "artist_id": 3,
+        "album_id": 3
+    }, {
+
     }]
 }
