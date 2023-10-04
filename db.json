@@ -3,6 +3,18 @@
         "id": 1,
         "name": "Gioventù Brucata",
         "artist_id": 1
+    }, {
+        "id": 2,
+        "name": "Completamente (sold out)",
+        "artist_id": 2
+    }, {
+        "id": 3,
+        "name": "Vita Sperduta",
+        "artist_id": 3
+    }, {
+        "id": 4,
+        "name": "The Collection",
+        "artist_id": 5
     }],
     "artists": [{
         "id": 1,
@@ -19,6 +31,10 @@
     }, {
         "id": 4,
         "name": "Mahmood",
+        "description": ""
+    }, {
+        "id": 5,
+        "name": "Lucio Dalla",
         "description": ""
     }],
     "playlists": [{
@@ -50,6 +66,16 @@
         "artist_id": 3,
         "album_id": 3
     }, {
-
+        "id": 3,
+        "title": "Completamente",
+        "length": 216000,
+        "artist_id": 2,
+        "album_id": 2
+    }, {
+        "id": 3,
+        "title": "Telefonami tra 20 anni",
+        "length": 282000,
+        "artist_id": 5,
+        "album_id": 4
     }]
 }
